@@ -8,3 +8,6 @@ For out project we used [this dataset](https://www.kaggle.com/datasets/deepu1109
 
 ### Course
 Data Representation and Analysis
+
+### Programming tools used:
+Python, Jupyter Notebook, Microsoft Azure
